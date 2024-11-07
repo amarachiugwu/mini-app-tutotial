@@ -1,0 +1,6 @@
+export * from './Coins'
+export * from './Friends'
+export * from './Hamster'
+export * from './Info'
+export * from './Mine'
+export * from './Settings'
